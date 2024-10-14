@@ -35,5 +35,5 @@ name = "usb"
 harness = false
 
 [[bin]]
-name = "usb_timer"
+name = "usb_irq"
 harness = false
