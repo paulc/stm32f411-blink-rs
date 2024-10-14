@@ -33,3 +33,7 @@ harness = false
 [[bin]]
 name = "usb"
 harness = false
+
+[[bin]]
+name = "usb_timer"
+harness = false
